@@ -30,6 +30,7 @@ I'm a passionate Front-End Developer who loves working with modern web technolog
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![React Lottie](https://img.shields.io/badge/-React%20Lottie-FA5B5B?style=flat&logo=lottie&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-00F0F0?style=flat&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
