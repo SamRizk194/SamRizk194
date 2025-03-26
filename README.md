@@ -1,6 +1,6 @@
 # Hi, I'm Sameh 👋
 
-Sameh Rizk | 💻 Front-End Developer | Damietta, Egypt
+## Sameh Rizk | 💻 Front-End Developer | Damietta, Egypt
 
 ---
 
@@ -11,12 +11,12 @@ I'm a passionate Front-End Developer who loves working with modern web technolog
 
 ---
 
-**My Portfolio:**  
+### 🔗 My Portfolio:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://sameh-rizk.netlify.app/)
 
 ---
 
-### Technologies & Tools I use:
+### ⚙️ Technologies & Tools I use:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
